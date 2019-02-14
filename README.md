@@ -1,5 +1,4 @@
 # ErlangProgramming for beginner
-1. Starter
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
+3. Item 3
+    * Item 3a
+    * Item 3b
